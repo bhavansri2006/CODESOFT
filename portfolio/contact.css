@@ -10,7 +10,7 @@ body {
   color: #ffffff;
 }
 
-/* NAVBAR */
+
 .navbar {
   display: flex;
   justify-content: space-between;
@@ -36,7 +36,7 @@ nav a.active {
   color: #00ffd5;
 }
 
-/* CONTACT SECTION */
+
 .contact-section {
   min-height: 85vh;
   text-align: center;
@@ -53,7 +53,7 @@ nav a.active {
   margin-bottom: 40px;
 }
 
-/* CONTACT INFO */
+
 .contact-info {
   margin-bottom: 40px;
   line-height: 2;
@@ -64,7 +64,7 @@ nav a.active {
   font-weight: 600;
 }
 
-/* SOCIAL CARDS */
+
 .social-section {
   display: flex;
   justify-content: center;
@@ -98,7 +98,7 @@ nav a.active {
   box-shadow: 0 0 20px rgba(0, 255, 213, 0.4);
 }
 
-/* BRAND COLORS */
+
 .github:hover {
   background: #1f1f1f;
 }
@@ -107,10 +107,11 @@ nav a.active {
   background: #0077b5;
 }
 
-/* FOOTER */
+
 footer {
   text-align: center;
   padding: 20px;
   font-size: 14px;
   color: #888;
 }
+
