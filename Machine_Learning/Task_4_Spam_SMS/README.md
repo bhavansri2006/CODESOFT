@@ -7,8 +7,7 @@ Tools:
 - Python
 - Pandas
 - Scikit-learn
-
-Status:
 Status: Completed 
 Accuracy: 97.8%
+
 
