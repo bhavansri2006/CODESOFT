@@ -8,6 +8,6 @@ Tools:
 - Pandas
 - Scikit-learn
 Status: Completed
-Accuracy: (add the accuracy you got)
+Accuracy: 86%
 
 
