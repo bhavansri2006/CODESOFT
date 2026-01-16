@@ -1,0 +1,27 @@
+Task 3: Customer Churn Prediction
+
+Objective:
+Build a machine learning model to predict customer churn using historical customer data.
+
+Description:
+This project uses a Random Forest classifier to predict whether a customer will churn or not.
+Categorical features are encoded, missing values are handled, and the model performance is
+evaluated using accuracy, classification report, and confusion matrix.
+
+Tools & Technologies:
+- Python
+- Pandas
+- NumPy
+- Scikit-learn
+
+Dataset:
+Churn_Modelling.csv
+
+Model Used:
+- Random Forest Classifier
+
+Results:
+Accuracy: 86%
+
+Status:
+Completed
